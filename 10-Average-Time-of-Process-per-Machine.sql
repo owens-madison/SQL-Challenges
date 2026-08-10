@@ -1,4 +1,4 @@
-/* LeetCode Problem  1661
+/* LeetCode Problem 1661
 Table: Activity
 
 +----------------+---------+
